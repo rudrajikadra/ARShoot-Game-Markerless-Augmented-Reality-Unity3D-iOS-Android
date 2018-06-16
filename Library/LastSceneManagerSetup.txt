@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AR Shoot.unity
+  isLoaded: 1
+  isActive: 1
