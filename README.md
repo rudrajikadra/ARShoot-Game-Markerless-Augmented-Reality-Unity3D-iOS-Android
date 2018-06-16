@@ -11,3 +11,5 @@ When you create for iOS it will create another folder with this Unity Project an
 
 ## How does it looks like
 (Gif)
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/15246084/41500963-133318aa-71b9-11e8-9a27-ec1e6917a5da.gif)
